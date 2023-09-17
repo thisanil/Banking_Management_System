@@ -24,7 +24,7 @@ void bank::open_account()
     cin>>y;
     cout<<"Enter amount for deposit ::";
     cin>>balance;
-    cout<<"Your account is created ";
+    cout<<"Your account is created :: ";
 
 }
 void bank::deposit_money()
